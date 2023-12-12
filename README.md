@@ -1,6 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Даниил
 ==============================================================================================================================
 
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+
 * 🌍  I'm based in Санкт-Петербург
 * ✉️  You can contact me at [1337ddv@gmail.com](mailto:1337ddv@gmail.com)
 
@@ -14,7 +19,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### SOCIAL
 
-![Static Badge](https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram (https://t.me/MonkaPonga)) ![Static Badge](https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=GMAIL (mailto:thebrootos@gmail.com))
+[![Telegram Badge](https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram)](https://t.me/MonkaPonga)
+ [![Static Badge](https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=GMAIL)](mailto:1337ddv@gmail.com@gmail.com)
 
 
 
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/pa2ha/badges/large)

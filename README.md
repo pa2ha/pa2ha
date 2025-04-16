@@ -32,9 +32,3 @@
 
 [![Telegram Badge](https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram)](https://t.me/MonkaPonga)
  [![Static Badge](https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=GMAIL)](mailto:1337ddv@gmail.com@gmail.com)
-
-
-
-### 💻 Codewars:
-
-![codewars](https://www.codewars.com/users/pa2ha/badges/large)

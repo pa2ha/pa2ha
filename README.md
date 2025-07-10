@@ -27,5 +27,5 @@
 
 ### Контакты
 
-[![Telegram Badge](https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram)](https://t.me/MonkaPonga)
+[![Telegram Badge](https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram)](https://t.me/Cnxjsjci)
  [![Static Badge](https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=GMAIL)](mailto:1337ddv@gmail.com@gmail.com)
